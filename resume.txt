@@ -1,0 +1,98 @@
+ARUN SELVAN GJ
+System Engineer
+Dedicated Release Engineer with 8 years of hands-on
+experience in designing, implementing, and optimizing
+software release processes. Proficient in managing CI/CD
+pipelines, version control systems, and deployment
+automation tools. Seeking a challenging role to leverage my
+expertise in ensuring seamless software releases, enhancing
+operational efficiency, and driving continuous improvement
+initiatives within a dynamic team environment.
+
+Contact
++91 - 7448440011
+gjarunselvan@@gmail.com
+
+Education
+Bachelor of Engineering
+Jeppiar Institute of Technology
+2013-2016
+
+Skills
+CICD - Jenkins
+
+Ansible
+Linux
+GIT
+AWS DevOps
+
+Experience
+System Engineer
+WM Global Technology Service
+
+Nov 2020 - Present
+
+Developed scripts and automation tools to facilitate
+deployment, configuration, and testing processes.
+Managed integration between different systems and tools
+to support seamless release workflows.
+Optimized release processes for efficiency, reliability, and
+scalability.
+Supported continuous integration/continuous deployment
+(CI/CD) initiatives to improve release frequency and
+quality.
+
+Senior System Engineer
+Cognizant Technology Solutions
+
+Aug 2017 - Nov 2020
+
+Install, configure, and maintain Linux operating systems,
+ensuring compliance with security standards.
+Perform system backups, data file maintenance, and
+monitor system configurations.
+Proficient in shell scripting, log file analysis, user account
+management, and mail service setup.
+Provide technical support for system hardware, software,
+and operator issues.
+Coordinate activities with other team members and
+communicate updates to managers and end-users.
+Utilize open-source tools for system monitoring and
+troubleshooting.
+
+Prometheus
+
+Technical Support Executive
+
+Grafana & splunk
+
+DREAMSPLUS CONSULTING PVT LTD
+
+Scripting - Bash
+
+Maintenance of email and network security systems
+Front Office Interfaces and Data Provision / Delivery
+Administering Network Workstations
+Firewall administration
+Responsibility for company IT security
+Providing telephone and desktop support
+Forecasting any needed technical improvements
+
+Docker
+Kubernetes
+Cloud/SaaS Service
+
+Nexus
+VMWare
+Informix
+Release Management
+Tools
+
+Language
+Tamil
+
+English
+
+May 2016 - Apr 2017
+
+
