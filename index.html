@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Arun Selvan G J — DevOps / Release Engineer</title>
+
+<!-- SEO -->
+<meta name="description" content="Arun Selvan G J — DevOps & Release Engineer with 8+ years experience in CI/CD, Cloud, Linux, Kubernetes & Automation." />
+<meta property="og:title" content="Arun Selvan G J — DevOps Engineer" />
+<meta property="og:description" content="CI/CD • Cloud • Linux • Automation • Zero Trust" />
+<meta property="og:type" content="website" />
+
+<style>
+:root {
+  --bg: #0b0d12;
+  --card: #121826;
+  --fg: #e5e7eb;
+  --muted: #9ca3af;
+  --accent: #5eead4;
+}
+@media (prefers-color-scheme: light) {
+  :root {
+    --bg: #f9fafb;
+    --card: #ffffff;
+    --fg: #111827;
+    --muted: #4b5563;
+  }
+}
+
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body {
+  margin: 0;
+  font-family: Inter, system-ui, -apple-system;
+  background: var(--bg);
+  color: var(--fg);
+}
+
+section {
+  max-width: 1100px;
+  margin: auto;
+  padding: 80px 20px;
+}
+
+h1, h2 {
+  margin: 0 0 16px;
+}
+h1 span, h2 span {
+  color: var(--accent);
+}
+
+.hero {
+  min-height: 100vh;
+  display: grid;
+  place-items: center;
+  text-align: center;
+}
+.hero img {
+  width: 120px;
+  border-radius: 50%;
+  box-shadow: 0 0 40px rgba(94,234,212,.3);
+}
+.hero p {
+  max-width: 620px;
+  margin: 16px auto;
+  color: var(--muted);
+}
+
+.actions a {
+  display: inline-block;
+  margin: 12px;
+  padding: 12px 22px;
+  border-radius: 10px;
+  background: var(--accent);
+  color: #000;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit,minmax(260px,1fr));
+  gap: 24px;
+}
+
+.card {
+  background: var(--card);
+  padding: 24px;
+  border-radius: 18px;
+  transition: transform .25s ease;
+}
+.card:hover {
+  transform: translateY(-6px);
+}
+
+.metrics {
+  display: grid;
+  grid-template-columns: repeat(auto-fit,minmax(180px,1fr));
+  gap: 24px;
+  text-align: center;
+}
+.metric span {
+  font-size: 2.4rem;
+  color: var(--accent);
+  display: block;
+}
+
+.terminal {
+  background: #020617;
+  color: #5eead4;
+  padding: 24px;
+  border-radius: 14px;
+  font-family: monospace;
+  line-height: 1.6;
+  overflow-x: auto;
+}
+
+.timeline {
+  border-left: 2px solid var(--accent);
+  padding-left: 20px;
+}
+.timeline div {
+  margin-bottom: 24px;
+}
+
+footer {
+  text-align: center;
+  padding: 40px;
+  color: var(--muted);
+}
+</style>
+</head>
+
+<body>
+
+<!-- HERO -->
+<section class="hero">
+  <div>
+    <img src="assets/profile.webp" alt="Arun Selvan G J" />
+    <h1>Arun <span>Selvan</span> G J</h1>
+    <p>
+      DevOps / Release Engineer with 8+ years of experience building
+      CI/CD pipelines, Linux systems, cloud automation and secure infrastructure.
+    </p>
+    <div class="actions">
+      <a href="#contact">Hire Me</a>
+      <a href="assets/ArunSelvanGJ.pdf" download>Download Resume</a>
+    </div>
+  </div>
+</section>
+
+<!-- METRICS -->
+<section>
+  <div class="metrics">
+    <div class="metric"><span data-count="8">0</span> Years Experience</div>
+    <div class="metric"><span data-count="120">0</span> Releases Shipped</div>
+    <div class="metric"><span data-count="99">0</span>% Uptime</div>
+    <div class="metric"><span data-count="15">0</span> Tools Mastered</div>
+  </div>
+</section>
+
+<!-- SKILLS -->
+<section>
+  <h2><span>⚙</span> Skills</h2>
+  <div class="grid">
+    <div class="card">Linux • Bash • Networking</div>
+    <div class="card">CI/CD — Jenkins, Git, Nexus</div>
+    <div class="card">Docker • Kubernetes • VMWare</div>
+    <div class="card">AWS DevOps • Cloud/SaaS</div>
+    <div class="card">Monitoring — Prometheus, Grafana, Splunk</div>
+    <div class="card">Release Management & Automation</div>
+  </div>
+</section>
+
+<!-- EXPERIENCE -->
+<section>
+  <h2><span>🧠</span> Experience</h2>
+  <div class="timeline">
+    <div>
+      <strong>Senior System Engineer — WM Global Technology</strong><br/>
+      <small>Nov 2020 – Present</small>
+      <p>CI/CD pipelines, Kubernetes automation, secure cloud deployments.</p>
+    </div>
+    <div>
+      <strong>System Engineer — Cognizant</strong><br/>
+      <small>Aug 2017 – Nov 2020</small>
+      <p>Linux administration, automation, monitoring, system reliability.</p>
+    </div>
+    <div>
+      <strong>Technical Support Executive — DreamsPlus</strong><br/>
+      <small>May 2016 – Apr 2017</small>
+      <p>Infrastructure support, security, system troubleshooting.</p>
+    </div>
+  </div>
+</section>
+
+<!-- TERMINAL -->
+<section>
+  <h2><span>💻</span> DevOps Terminal</h2>
+  <div class="terminal">
+    $ kubectl get pods<br/>
+    ✔ ci-runner Running<br/>
+    ✔ monitoring-stack Healthy<br/><br/>
+    $ jenkins build release<br/>
+    ✔ Pipeline completed successfully<br/><br/>
+    $ uptime<br/>
+    99.99% availability 🚀
+  </div>
+</section>
+
+<!-- CONTACT -->
+<section id="contact">
+  <h2><span>📬</span> Contact</h2>
+  <div class="card">
+    📧 gjarunselvan@gmail.com<br/>
+    📞 +91 7448440011
+  </div>
+</section>
+
+<footer>
+  © 2026 Arun Selvan G J · Resume as Code · Cloudflare Pages
+</footer>
+
+<script>
+// Animated counters
+document.querySelectorAll('[data-count]').forEach(el => {
+  let target = +el.dataset.count;
+  let i = 0;
+  let step = target / 60;
+  let timer = setInterval(() => {
+    i += step;
+    el.textContent = Math.floor(i);
+    if (i >= target) {
+      el.textContent = target;
+      clearInterval(timer);
+    }
+  }, 30);
+});
+</script>
+
+</body>
+</html>
